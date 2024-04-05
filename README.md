@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)****
 <!--
 **ss133600/ss133600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
