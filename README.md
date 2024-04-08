@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Serim's%20GitHub👋&fontSize=70&animation=fadeIn)
 <br/>
 <br/>
-<h1>🛠 Tech Stack 🛠</h1>
+<h3>🛠 Tech Stack 🛠</h3><br/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><br/>
@@ -22,8 +22,14 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact) <br/>
-<br/>
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ss133600&count_private=true&show_icons=true&theme=solarized-light)
+
+<br/><br/>
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:s9878133600@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s9878133600@gmail.com"/></a>
 
 </div>
