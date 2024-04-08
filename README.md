@@ -2,10 +2,9 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=SERIM_SHIN&fontSize=90&animation=fadeIn)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact)
-
-
+<br/>
+<br/>
+<br/>
  <h1>🛠 Tech Stack 🛠</h1>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -21,6 +20,9 @@
 <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<br/>
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact)
 
 </div>
