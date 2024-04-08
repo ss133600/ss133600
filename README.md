@@ -21,15 +21,17 @@
 <br/>
 <br/>
 <br/>
+<h3 align="center">📞 Contact 📞</h3><br/>
+<a href="mailto:s9878133600@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s9878133600@gmail.com"/></a>
+<br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact)<hr/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact)<br/>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3><br/>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ss133600&count_private=true&show_icons=true&theme=solarized-light)
 
-<hr/><br/>
-<h3 align="center">📞 Contact 📞</h3><br/>
-<a href="mailto:s9878133600@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s9878133600@gmail.com"/></a>
+
+
 
 </div>
