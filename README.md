@@ -1,7 +1,7 @@
 <div align="center">
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=SERIM_SHIN&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcome%20to%20Serim's%20GitHub👋&fontSize=55&animation=fadeIn)
 <br/>
 <br/>
 <h1>🛠 Tech Stack 🛠</h1>
