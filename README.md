@@ -29,7 +29,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ss133600&count_private=true&show_icons=true&theme=solarized-light)
 
 <br/><br/>
-<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<h3 align="center">📞 Contact 📞</h3><br/>
 <a href="mailto:s9878133600@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s9878133600@gmail.com"/></a>
 
 </div>
