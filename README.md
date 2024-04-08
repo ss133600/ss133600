@@ -23,5 +23,4 @@
 <br/>
 <h1>🛠 Tech Stack 🛠</h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact)
-
 </div>
