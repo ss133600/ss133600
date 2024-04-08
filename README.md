@@ -21,6 +21,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br/>
 <br/>
-<h1>🛠 Tech Stack 🛠</h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact) <br/>
+<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ss133600&count_private=true&show_icons=true&theme=solarized-light)
+
 </div>
