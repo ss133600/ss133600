@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Serim's%20GitHub👋&fontSize=70&animation=fadeIn)
 <br/>
 <br/>
-<h3>🛠 Tech Stack 🛠</h3><br/>
+<h1>🛠 Tech Stack 🛠</h1><br/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><br/>
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <br/>
-<h3 align="center">📞 Contact 📞</h3><br/>
+<h1 align="center">📞 Contact 📞</h1><br/>
 <a href="mailto:s9878133600@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s9878133600@gmail.com"/></a>
 <br/><br/>
 
