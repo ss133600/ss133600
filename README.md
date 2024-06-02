@@ -26,11 +26,6 @@
 <br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss133600&layout=compact)<br/>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3><br/>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ss133600&count_private=true&show_icons=true&theme=solarized-light)
-
 
 
 
